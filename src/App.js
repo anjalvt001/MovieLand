@@ -20,7 +20,6 @@ function App() {
     console.log(data);
   }
 
-
   useEffect(() => {
 
     searchMovies('title');
